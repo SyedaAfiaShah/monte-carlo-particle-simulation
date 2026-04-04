@@ -1,4 +1,5 @@
 # Monte Carlo Simulation of Particle Transport and Decay
+[view Live Demo here](https://monte-carlo-particle-simulation.streamlit.app/)
 
 This project implements a high-performance **Monte Carlo simulation framework** for modeling stochastic particle motion (random walk/diffusion) and probabilistic particle decay. The underlying logic uses highly vectorized NumPy arrays rather than Object-Oriented paradigms for individual particles, allowing simulation of massive sets (10k+ particles) at rapid speeds.
 
